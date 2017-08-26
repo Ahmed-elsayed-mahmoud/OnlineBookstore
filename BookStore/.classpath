@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/avalon-framework-impl-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/barcode4j-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-anim-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-awt-util-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-bridge-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-css-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-ext-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-gvt-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-parser-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-script-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-svg-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-util-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/batik-xml-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/bcprov-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/dynamicreports-core-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/itext-2.1.7.js5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jasperreports-6.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/8.1/Downloads/BookStore/BookStore/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
